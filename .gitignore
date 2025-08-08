@@ -2,4 +2,4 @@ node_modules
 
 */.env
 
-./backend/mongo.js
+backend/mongo.js
